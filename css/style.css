@@ -1,0 +1,13 @@
+main {
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45pt;
+}
+
+#detailedResults {
+    text-align: left;
+}
